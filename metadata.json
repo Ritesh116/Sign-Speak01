@@ -1,0 +1,5 @@
+{
+  "name": "SignSpeak",
+  "description": "A gamified sign language recognition app using MediaPipe and AI.",
+  "requestFramePermissions": ["camera"]
+}
